@@ -1,4 +1,4 @@
-// main.go
+// read.go
 
 package week_1
 

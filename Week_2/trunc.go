@@ -1,4 +1,4 @@
-//trunc.go
+// trunc.go
 
 package week_2
 

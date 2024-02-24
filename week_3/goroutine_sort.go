@@ -1,4 +1,6 @@
-package week_4
+//goroutine_sort.go
+
+package week_3
 
 import (
 	"bufio"

@@ -1,4 +1,4 @@
-// main.go
+// slicer.go
 
 package week_2
 

@@ -1,3 +1,5 @@
+// math.go
+
 package week_1
 
 import (

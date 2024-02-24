@@ -1,4 +1,4 @@
-// main.go
+// bubblesort.go
 
 package week_2
 

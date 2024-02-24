@@ -1,4 +1,6 @@
-package week_4
+//dining_philosophers
+
+package week_3
 
 import (
 	"fmt"

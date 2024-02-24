@@ -12,7 +12,7 @@
 // Output: 5
 // Explanation: You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
 
-package week_3
+package week_2
 
 // {1, 0, 0, 0, 0, 7} == 8 (y)
 // {1, 0, 1, 0, 1} == 8 (n)

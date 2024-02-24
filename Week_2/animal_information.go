@@ -1,6 +1,6 @@
-// main.go
+// animal_information.go
 
-package week_3
+package week_2
 
 import (
 	"bufio"

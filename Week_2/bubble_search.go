@@ -1,6 +1,6 @@
 // bubble_search.go
 
-package week_3
+package week_2
 
 import "fmt"
 

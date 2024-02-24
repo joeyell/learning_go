@@ -1,4 +1,4 @@
-// main.go
+// makejson.go
 
 package week_2
 
