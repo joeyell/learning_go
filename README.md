@@ -23,3 +23,4 @@ Go, also known as Golang, is an open-source programming language developed by Go
 - Week 1: Getting Started with Go
 - Week 2: Functions, Methods, and Interfaces in Go
 - Week 3: Concurrency in Go
+- Week 4+: Coding tasks/challenges
