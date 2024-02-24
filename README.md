@@ -11,7 +11,7 @@ Go, also known as Golang, is an open-source programming language developed by Go
 - **Master the Basics**: Start with the fundamentals of Go programming, including syntax, data types, control structures, and functions.
 - **Explore Advanced Concepts**: Dive deeper into advanced topics like concurrency, interfaces, error handling, and package management.
 - **Build Projects**: Apply what I learn by working on practical projects to reinforce my understanding and skills (coming soon).
-- **Contribute to Open Source/Community**: Contribute to open-source Go projects and collaborate with the vibrant Go community  ([London Gophers](https://gophers.london/), [Gopher Slack](https://gophers.slack.com/messages/general/).
+- **Contribute to Open Source/Community**: Contribute to open-source Go projects and collaborate with the vibrant Go community  ([London Gophers](https://gophers.london/), [Gopher Slack](https://gophers.slack.com/messages/general/)).
 
 ## Resources
 
